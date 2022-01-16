@@ -1,6 +1,3 @@
-from operator import le
-
-
 def median(a):
     
     sort = sorted(a)
